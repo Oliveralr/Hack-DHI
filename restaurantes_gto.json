@@ -1,0 +1,21 @@
+{"restaurantes_gto":{
+    "rest_1":{
+        "Nombre":"La Capellina Restaurante",
+        "Dirección":"De Sopena 3, Col.centro, 36000 Guanajuato, Gto.",
+        "Telefono":"01 473 732 7224",
+        "Calificación":"4.4"
+    },
+    "rest_2":{
+        "Nombre":"Bistro De La Presa Restaurant",
+        "Dirección":" Paseo de La Presa 109, Barrio de la Presa, 36090 Guanajuato, Gto.",
+        "Telefono":" 01 473 731 2598",
+        "Calificación":"4.6"
+    },
+    "rest_3":{
+        "Nombre":"El Jardín De Los Milagros",
+        "Dirección":"Calle Alhóndiga 80, San Javier, 36020 Guanajuato, Gto.",
+        "Telefono":"01 473 732 9366",
+        "Calificación":"4.4"
+    }
+ }
+}

@@ -1,0 +1,21 @@
+{"hoteles_leon":{
+    "hotel_1":{
+        "Nombre":"InterForum Express",
+        "Dirección":"Blvd., Blvrd Francisco Villa 202, Las Bugambilias, 37270 León, Gto.",
+        "Telefono":"01 477 780 8404",
+        "Calificación":"4.0"
+    },
+    "hotel_2":{
+        "Nombre":"Howard Johnson Leon Avenida",
+        "Dirección":"Leandro Valle 516, Bellavista, 38900 Guanajuato, Gto.",
+        "Telefono":"01 477 719 7900",
+        "Calificación":"4.1"
+    },
+    "hotel_3":{
+        "Nombre":"Holiday Inn & Suites Plaza Mayor",
+        "Dirección":"Adolfo Lopez Mateos Poniente #2619 Col. Villas del Juncal Col, Villa del Juncal, 37180 León, Gto.",
+        "Telefono":"01 477 775 5100",
+        "Calificación":"4.7"
+    }
+ }
+}

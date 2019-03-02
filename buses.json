@@ -1,0 +1,23 @@
+{
+    "buses_dolores":{
+        "bus_1":{
+            "Parada Principal":"Av. Sur",
+            "Destino":"Rancherias",
+            "Horario de Inicio":"6:00 a.m.",
+            "Pasa cada":"15 minutos"
+
+        },"bus_2":{
+            "Parada Principal":"Soriana",
+            "Destino":"San Antonio del Carmen",
+            "Horario de Inicio":"6:00 a.m.",
+            "Pasa cada":"15 minutos"
+
+        },"bus_3":{
+            "Parada Principal":"Jardín Chiquito",
+            "Destino":"Las Palomas",
+            "Horario de Inicio":"6:00 a.m.",
+            "Pasa cada":"15 minutos"
+
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{"hoteles_gto":{
+    "hotel_1":{
+        "Nombre":"Hotel Mansion Del Cantador",
+        "Dirección":" Cantador No. 19, Zona Centro, 36000 Guanajuato, Gto",
+        "Telefono":"01 473 732 6888",
+        "Calificación":"4.2"
+    },
+    "hotel_2":{
+        "Nombre":"Hotel Real De Minas Guanajuato",
+        "Dirección":"Av. Nejayote 17, Los Pastitos, Nejayote, 36000 Guanajuato, Gto.",
+        "Telefono":"01 473 732 1460",
+        "Calificación":"4.2"
+    },
+    "hotel_3":{
+        "Nombre":"Hotel Castillo Santa Cecilia",
+        "Dirección":"Km 01, Camino a la Valenciana S/N, San Javier, 36020 Guanajuato, Gto.",
+        "Telefono":"01 473 732 0485",
+        "Calificación":"4.2"
+    }
+ }
+}

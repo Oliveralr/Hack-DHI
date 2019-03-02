@@ -1,0 +1,27 @@
+{
+    "buses_gto":{
+        "bus_1":{
+            "Nombre":"GU-0041",
+            "Parada Principal":"Plaza de la Paz",
+            "Destino":"Cerro del Cuarto",
+            "Horario":"6:10 a.m.",
+            "Pasa cada":"25 minutos"
+
+
+        },"bus_2":{
+            "Nombre":"GU-0052",
+            "Parada Principal":"Mercado Hidalgo",
+            "Destino":"Central de Autobuses",
+            "Horario":"6:00 a.m.",
+            "Pasa cada":"20 minutos"
+
+        },"bus_3":{
+            "Nombre":"GU-0007",
+            "Parada Principal":"Pipila-Isste",
+            "Destino":"La Presa",
+            "Horario":"6:20 a.m.",
+            "Pasa cada":"30 minutos"
+
+        }
+    }
+}

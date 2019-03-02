@@ -1,0 +1,26 @@
+{
+    "buses_leon":{
+        "bus_1":{
+            "Nombre":"L-03",
+            "Parada Principal":"Terminal San Jeronimo",
+            "Destino":"Terminal San Juan Bosco",
+            "Horario":"5:40 a.m.",
+            "Pasa cada":"15 minutos"
+
+        },"bus_2":{
+            "Nombre":"L-01",
+            "Parada Principal":"Terminal San Jeronimo",
+            "Destino":"Terminal Delta",
+            "Horario":"5:40 a.m.",
+            "Pasa cada":"15 minutos"
+
+        },"bus_3":{
+            "Nombre":"X-05",
+            "Parada Principal":"Terminal Maravillas",
+            "Destino":" Micro Estación Santa Rita",
+            "Horario":"5:40 a.m.",
+            "Pasa cada":"15 minutos"
+
+        }
+    }
+}

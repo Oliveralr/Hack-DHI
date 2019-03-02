@@ -1,0 +1,21 @@
+{"bares_leon":{
+    "bar_1":{
+        "Nombre":"",
+        "Dirección":"",
+        "Telefono":"",
+        "Calificación":""
+    },
+    "bar_2":{
+        "Nombre":"",
+        "Dirección":"",
+        "Telefono":"",
+        "Calificación":""
+    },
+    "bar_3":{
+        "Nombre":"",
+        "Dirección":"",
+        "Telefono":"",
+        "Calificación":""
+    }
+ }
+}

@@ -1,0 +1,21 @@
+{"restaurantes_leon":{
+    "rest_1":{
+        "Nombre":"La Vaka",
+        "Dirección":"Blvd. Aeropuerto 901, San Jose el Alto, 37545 León, Gto.",
+        "Telefono":"01 477 711 8874",
+        "Calificación":"4.6"
+    },
+    "rest_2":{
+        "Nombre":"Los Arcos",
+        "Dirección":"Blvd. Adolfo López Mateos 2510, Cerrito de Jerez, 37530 León, Gto",
+        "Telefono":"01 477 711 1168",
+        "Calificación":"4.5"
+    },
+    "rest_3":{
+        "Nombre":"El Mesón Jarocho",
+        "Dirección":"Blvd. San Pedro 217, San Isidro, 37510 León, Gto.",
+        "Telefono":"01 477 637 3749",
+        "Calificación":"4.1"
+    }
+ }
+}
