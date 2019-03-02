@@ -1,0 +1,110 @@
+{
+    "bar_1":{
+        "Nombre":"Mamá Dolores",
+        "Dirección":"Principal 27, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.2"
+    },
+    "bar_2":{
+        "Nombre":"Rodeo Viejo Oeste",
+        "Dirección":"México 110, San Cristobal, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.4"
+    },
+    "bar_3":{
+        "Nombre":"Bar el Triunfo",
+        "Dirección":"Tabasco 14, 12 de Octubre, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"01 418 182 0109",
+        "Calificación":"3.7"
+    },
+    "bar_4":{
+        "Nombre":"El Malagüero",
+        "Dirección":"Guerrero 15, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto. ",
+        "Telefono":"01 418 690 2985",
+        "Calificación":"4.6"
+    },
+    "bar_5":{
+        "Nombre":"Generos bar",
+        "Dirección":"José Alfredo Jiménez 117, Dolores, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.7"
+    },
+    "bar_6":{
+        "Nombre":"Cantina el Incendio",
+        "Dirección":"Jalisco 21, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"01 418 132 3117",
+        "Calificación":"3.8"
+    },
+    "bar_7":{
+        "Nombre":"La Farra",
+        "Dirección":"Guerrero 35, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.3"
+    },
+    "bar_8":{
+        "Nombre":"Living Lounge Bar",
+        "Dirección":"Calzada de los Heroes 179, Mariano Belleza, Dolores Hidalgo Cuna de la Independencia Nacional, Gto. ",
+        "Telefono":"01 418 101 2633",
+        "Calificación":"2.0"
+    },
+    "bar_9":{
+        "Nombre":"Bar el Coy",
+        "Dirección":"20 de Noviembre 15, San Cristobal, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"01 418 220 83",
+        "Calificación":"4.5"
+    },
+    "bar_11":{
+        "Nombre":"Mischelitas",
+        "Dirección":"De los Heroes 179c, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.5"
+    },
+    "bar_12":{
+        "Nombre":"El Cazador",
+        "Dirección":"José Alfredo Jiménez 119, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.5"
+    },
+    "bar_13":{
+        "Nombre":"Salsipuedes Cavita Bar",
+        "Dirección":"De los Heroes 45A, Heroes de San Cristobal, ",
+        "Telefono":"",
+        "Calificación":"4.5"
+    },
+    "bar_14":{
+        "Nombre":"Al Agua Lola",
+        "Dirección":"De los Heroes 101, Mariano Belleza, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.3"
+    },
+    "bar_15":{
+        "Nombre":"Agasajos Bar",
+        "Dirección":"Carretera al Llanito 117, San Diego, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"04 418 101 0524",
+        "Calificación":"4.1"
+    },
+    "bar_16":{
+        "Nombre":"El Carruaje",
+        "Dirección":"Guanajuato 5, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"01 418 182 1412",
+        "Calificación":"3.7"
+    },
+    "bar_17":{
+        "Nombre":"Mezcalería el Mil Amores",
+        "Dirección":"San Miguel de Allende 110C, San Cristobal, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.2"
+    },
+    "bar_18":{
+        "Nombre":"El Faro",
+        "Dirección":"Yucatán 9, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"01 418 182 0365",
+        "Calificación":"4.5"
+    },
+    "bar_19":{
+        "Nombre":"La Lola, Grill and Bar",
+        "Dirección":"Mariano Belleza 68, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto.",
+        "Telefono":"",
+        "Calificación":"4.7"
+    }
+}
